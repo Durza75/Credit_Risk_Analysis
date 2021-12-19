@@ -23,6 +23,7 @@ The combination method is no good. Its precision score is too low.
 
 #### Figure 5: *Balanced Random Forest Classifier*
 ![](Images/balanced_rforest_classifier.png) 
+
 This method is better than the previous methods due to its precision score being higher, but it is still a low score, and fails.
 
 #### Figure 6: *Easy Ensemble AdaBoost Classifier*
