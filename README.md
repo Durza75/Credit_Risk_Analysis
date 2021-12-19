@@ -23,11 +23,11 @@ The combination method is no good. Its precision score is too low.
 
 #### Figure 5: *Balanced Random Forest Classifier*
 ![](Images/balanced_rforest_classifier.png) 
-This method is better than the previous methods due to its precision score being higher. 
+This method is better than the previous methods due to its precision score being higher, but it is still a low score, and fails.
 
 #### Figure 6: *Easy Ensemble AdaBoost Classifier*
 ![](Images/easy_ensemble_adaboost_classifier.png)  
-The AdaBoost method is superior as well due to its precision score being higher.
+The AdaBoost method also has a higher precision score than the other models, but it is still low, and fails.
 
 ## Summary
 All of the models have a low precision score. The balanced random forest and easy ensemble AdaBoost classifiers were higher than those of the four models but even then, they too also have low precision scores.  
